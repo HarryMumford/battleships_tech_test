@@ -3,22 +3,66 @@
     "coverage": {
       "/Users/student/tech-tests/battleships_tech_test/spec/feature/place_single_ship_spec.rb": {
         "lines": [
-          1,
-          1,
-          1,
-          1,
-          0,
-          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
           null,
           null
         ]
       },
       "/Users/student/tech-tests/battleships_tech_test/spec/game_spec.rb": {
         "lines": [
-
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          2,
+          null,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/student/tech-tests/battleships_tech_test/lib/game.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null
         ]
       }
     },
-    "timestamp": 1580597631
+    "timestamp": 1580601203
   }
 }
